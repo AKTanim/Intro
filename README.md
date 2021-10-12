@@ -1,2 +1,3 @@
 # Hello-World
 Learning GitHub...
+About me: I am graduate from the University of Dhaka, Bangladesh. After completing my BSc in Electrical and Electrinic ENgineering, I have done an MS in Biomedical Engineering. I am a research enthusiast in the field of Data Science. At present, I am looking for fully funded MSc program in Artificial Intelligence and preparing myself for Data Analytics job as well. I hope everything works out just fine.
